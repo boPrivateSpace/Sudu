@@ -1,3 +1,6 @@
 **/.vs
 **/.suo
 *.suo
+**/bin
+**/obj
+/.vs
